@@ -4,6 +4,7 @@ var contestantCount;
 var allContestants;
 var answer, database;
 
+var Quiz, Contestant, Question;
 var contestant, question, quiz;
 
 function setup(){
